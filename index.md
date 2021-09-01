@@ -1,3 +1,3 @@
-Portfolio
-Name: Alexander Rusin
-Link: https://github.com/aerusin/portfolio.github.io/edit/main/
+## Alex Rusin Portfolio
+
+[My Github repository link](https://github.com/aerusin/portfolio.github.io)

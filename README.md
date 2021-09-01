@@ -1,4 +1,3 @@
-## Portfolio
-Name: Alexander Rusin
-https://github.com/aerusin/portfolio.github.io/edit/main/
-Editing this
+## Alex Rusin Portfolio
+
+[My Github repository link](https://github.com/aerusin/putyourreponame)

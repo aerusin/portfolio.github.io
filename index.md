@@ -7,7 +7,7 @@ Email: arusin@udel.edu
 Repository: [Link](https://github.com/aerusin/portfolio.github.io)
 
 # Portfolio
-Read the html, css, and javascript basics article listed and created this [website](https://aerusin.github.io/website/). The source code of the website is [here](https://github.com/aerusin/website/blob/main/index.html). I implemented some of the basics of html, css, and some javascript. 
+Read the html, css, and javascript basics article listed and created this [website](https://aerusin.github.io/website/). The source code of the website is [here](https://github.com/aerusin/website/blob/main/index.html). I implemented some of the basics of html, css, and javascript. 
 
 # Changelog
 * Added an image of my cat from my local directory.

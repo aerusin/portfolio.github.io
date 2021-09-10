@@ -16,7 +16,6 @@ Read the html, css, and javascript basics article listed and created this [websi
 * Fiddled with an input text box where I wanted it to be able to change the color of text on screen based on what color was entered. Ended up deleting it as I swapped to a different idea which I will list below.
 * After attending Dr. Barts lecture today, I tried to implement some javascript to change the color of the button when clicking on it but had some difficulty.
 * Tried to create an animation based on a tutorial I found [here](https://www.w3schools.com/css/css3_animations.asp) but had a bit of difficulty making the square go in a diamond shape which I origonally intended.
-* 
 
 # TODO
 * Need to work on my function changeColor on click so that the color of the button will change once clicked.

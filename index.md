@@ -18,6 +18,7 @@ Read the html, css, and javascript basics article listed and created this [websi
 * After attending Dr. Barts lecture today, I tried to implement some javascript to change the color of the button when clicking on it but had some difficulty.
 * Tried to create an animation based on a tutorial I found [here](https://www.w3schools.com/css/css3_animations.asp) but had a bit of difficulty making the square go in a diamond shape which I origonally intended.
 * Week 2
+* Fixed one of my TODO tasks from last week which was to fix my button so that it is able to change colors whenever it clicks. Read through [this](https://www.w3schools.com/js/) tutorial as well as I watched [this](https://www.youtube.com/watch?v=_GTMOmRrqkU&t=1516s&ab_channel=devdojo) on javascript which helped me grasp a better understanding on how javascript works.
 
 # TODO
 * Need to work on my function changeColor on click so that the color of the button will change once clicked.

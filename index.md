@@ -9,6 +9,8 @@ Repository: [Link](https://github.com/aerusin/portfolio.github.io)
 # Portfolio
 Read the html, css, and javascript basics article listed and created this [website](https://aerusin.github.io/website/). The source code of the website is [here](https://github.com/aerusin/website/blob/main/index.html). 
 
+Made a game of tic-tac-toe from the react tutorial and 
+
 
 # Changelog
 * Week 1

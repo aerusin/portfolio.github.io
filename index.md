@@ -7,7 +7,8 @@ Email: arusin@udel.edu
 Repository: [Link](https://github.com/aerusin/portfolio.github.io)
 
 # Portfolio
-Read the html, css, and javascript basics article listed and created this [website](https://aerusin.github.io/website/). The source code of the website is [here](https://github.com/aerusin/website/blob/main/index.html). I implemented some of the basics of html, css, and javascript. 
+Read the html, css, and javascript basics article listed and created this [website](https://aerusin.github.io/website/). The source code of the website is [here](https://github.com/aerusin/website/blob/main/index.html). 
+
 
 # Changelog
 * Week 1
@@ -19,6 +20,7 @@ Read the html, css, and javascript basics article listed and created this [websi
 * Tried to create an animation based on a tutorial I found [here](https://www.w3schools.com/css/css3_animations.asp) but had a bit of difficulty making the square go in a diamond shape which I origonally intended.
 * Week 2
 * Fixed one of my TODO tasks from last week which was to fix my button so that it is able to change colors whenever it clicks. Read through [this](https://www.w3schools.com/js/) tutorial as well as I watched [this](https://www.youtube.com/watch?v=_GTMOmRrqkU&t=1516s&ab_channel=devdojo) on javascript which helped me grasp a better understanding on how javascript works.
+* Created a calculator that takes in two numbers from two different input boxes that adds/subtracts/multiplies/ or divides depending on the math symbol you choose in the dropdown box. It then computes the answer placing it in another box.
 
 # TODO
 * Need to work on my function changeColor on click so that the color of the button will change once clicked.

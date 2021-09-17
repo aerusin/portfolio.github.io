@@ -24,7 +24,8 @@ Made a game of tic-tac-toe from the react tutorial and https://www.youtube.com/w
 * Tried to create an animation based on a tutorial I found [here](https://www.w3schools.com/css/css3_animations.asp) but had a bit of difficulty making the square go in a diamond shape which I origonally intended.
 ## Week 2
 * Fixed one of my TODO tasks from last week which was to fix my button so that it is able to change colors whenever it clicks. Read through [this](https://www.w3schools.com/js/) tutorial as well as I watched [this](https://www.youtube.com/watch?v=_GTMOmRrqkU&t=1516s&ab_channel=devdojo) on javascript which helped me grasp a better understanding on how javascript works.
-* Created a calculator that takes in two numbers from two different input boxes that adds/subtracts/multiplies/ or divides depending on the math symbol you choose in the dropdown box. It then computes the answer placing it in another box.
+* Created a calculator that takes in two numbers from two different input boxes that adds/subtracts/multiplies/ or divides depending on the math symbol you choose in the dropdown box. It then computes the answer placing it in another box. I originally used document.write to display the answer but it would constantly refresh to a new page with the answer. I looked online for a bit of help and found [this](https://www.tutorialspoint.com/how-to-output-javascript-into-a-textbox) guide which helped me output my javascript to a textbox.
+* 
 
 # TODO
 ## Week 1

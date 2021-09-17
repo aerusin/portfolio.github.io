@@ -38,4 +38,4 @@ Made a game of tic-tac-toe from the react tutorial [here](https://reactjs.org/tu
 ## Week 2
 * Plan on upscaling my calculator from two text box inputs to an actual clickable calculator that can calculate many different numbers. Will also work on making it look like an actual calculator in terms of structure, shape and colors. Really want to also add the ability to click a button and have window open where the calculator will also take in written problems instead of just entered through pushing buttons.
 * Implementing bootstrap into my calculator to help the overall layout making it clean and organized.
-* 
+* Potentially try and implement a simple version of black jack.

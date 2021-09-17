@@ -33,4 +33,5 @@ Made a game of tic-tac-toe from the react tutorial and https://www.youtube.com/w
 * Need to fix the animation so that it doesnt break and goes in a diamond shape then proceedes to go back in the opposite direction with the colors going in reverse as well infinitely looping.
 * ~~I would like to try and soon work on making a calculator as well as a pig latin translator. A calculator is something ive always wanted to try and recreate so I could understand the fundamentals so I am excited to work on that.~~
 ## Week 2
+* Plan on upscaling my calculator from two text box inputs to an actual clickable calculator that can calculate many different numbers. Will also work on making it look like an actual calculator in terms of structure, shape and colors.
 * 

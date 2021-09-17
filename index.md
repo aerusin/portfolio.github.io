@@ -22,14 +22,14 @@ Made a game of tic-tac-toe from the react tutorial and https://www.youtube.com/w
 * Fiddled with an input text box where I wanted it to be able to change the color of text on screen based on what color was entered. Ended up deleting it as I swapped to a different idea which I will list below.
 * After attending Dr. Barts lecture today, I tried to implement some javascript to change the color of the button when clicking on it but had some difficulty.
 * Tried to create an animation based on a tutorial I found [here](https://www.w3schools.com/css/css3_animations.asp) but had a bit of difficulty making the square go in a diamond shape which I origonally intended.
-* Week 2
+## Week 2
 * Fixed one of my TODO tasks from last week which was to fix my button so that it is able to change colors whenever it clicks. Read through [this](https://www.w3schools.com/js/) tutorial as well as I watched [this](https://www.youtube.com/watch?v=_GTMOmRrqkU&t=1516s&ab_channel=devdojo) on javascript which helped me grasp a better understanding on how javascript works.
 * Created a calculator that takes in two numbers from two different input boxes that adds/subtracts/multiplies/ or divides depending on the math symbol you choose in the dropdown box. It then computes the answer placing it in another box.
 
 # TODO
-*Week 1
+## Week 1
 * ~~Need to work on my function changeColor on click so that the color of the button will change once clicked.~~
 * Need to fix the animation so that it doesnt break and goes in a diamond shape then proceedes to go back in the opposite direction with the colors going in reverse as well infinitely looping.
-* ~~I would like to try and soon work on making a calculator as well as a pig latin translator. A calculator is something ive always wanted to try and recreate so I could understand the fundamentals so I am excited to work on that. ~~ (created a simple calculator in week 2)
-* Week 2
+* ~~I would like to try and soon work on making a calculator as well as a pig latin translator. A calculator is something ive always wanted to try and recreate so I could understand the fundamentals so I am excited to work on that.~~
+## Week 2
 * 

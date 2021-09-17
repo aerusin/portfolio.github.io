@@ -15,7 +15,7 @@ Made a game of tic-tac-toe from the react tutorial and https://www.youtube.com/w
 
 
 # Changelog
-* Week 1
+## Week 1
 * Added an image of my cat from my local directory.
 * Created a list of groceries with the website embedded in the name.
 * Made a background gradient, centered the image as well as rounding the edges to make it feel a bit more clean.

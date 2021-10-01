@@ -13,9 +13,7 @@ Watched a beginner website tutorial on youtube linked [here](https://www.youtube
 
 Made a game of tic-tac-toe from the react tutorial [here](https://reactjs.org/tutorial/tutorial.html). The [website](https://aerusin.github.io/reactTic-Tac-Toe/) is only showing the readme when pushed to github and published. I had another student have the issue as well.
 
-Watched Dr.Barts video and tried to create my own cardgame [here](https://aerusin.github.io/reactcardgame/) with the source code [here](https://github.com/aerusin/reactcardgame). The idea was that there is a json file full of different math problems with 4 kinds of them being addition, subtraction, multiplication, and division. The idea is for the user to be able to click a button with the icon symbolizing what type of math they want to work on and the website will then show flash cards that will have an answer box. You can only move on if you get the answer right. There is a hint option which will explain the steps of the problem 1 by 1 with a sample problem and when you enter the correct problem, you will go onto the next equation.
-
-
+Watched Dr.Barts video and tried to create my own cardgame [here](https://aerusin.github.io/reactcardgame/) with the source code [here](https://github.com/aerusin/reactcardgame). The goal of the game is suppose to be like a flashcard math quiz where a question would pop up and you answer and you get an output of whether its correct or not. I wanted it to be somewhat like [this](https://www.factmonster.com/math/flashcard?op[0]=addition&level=1) in terms of looks but spent alot more time then I probably should have on the actually functionality. A big problem I had was trying to get the input and use that input to check the actual value. It sounds easy but I didnt realize how many little things can get in the way such as the textbox not clearing on entry, the types being different etc etc which would essentially just break the code. The 2nd thing that ended up taking most of my time was the change cardKind function as the process of finding out where to put everything was a pain. I tried to orginionally all the buttons and functions in ControlPanel which ended up not working too well. Dr. Bart ended up giving me a great advice to make a radio button as it looks cleaner and helps out organinizing alot. I would say this was alot more difficult than I expected as the overall syntax and layout of everything was just very hard to wrap my head round at first and am still learning. This is my frist time very doing any web development so I am very happy so far. 
 
 
 
@@ -44,7 +42,8 @@ Watched Dr.Barts video and tried to create my own cardgame [here](https://aerusi
 * Updated the function so that it was able to go to the next card after a correct answer was submitted.
 * Updated handleKeyPress by setting the value of the textbox to a state variable called student answer so that whenever you submit an answer, it would clear the textbox for you as the values would never go away causing the answer after the first problem to constantly fail. After many hours of headaches, I figured out that I had to get the value of the keypress as an HTMLInputElement as there were errors with the types.
 * Changed the textarea to a textbox as the textarea was too big.
-* Created a new component called CardKindSelector where it updates the state of a variable called cardKind which represents the current kind of card that is meant to be displayed. I then passed this into the displayCard function where it will then get a random card of that cardkind after entering the correct answer. This was made up of radio buttons instead as the other plan of making four buttons and coding them individually was kind of a mess.
+* Added 4 functions called setCardAdd, ....Sub, ...Mul,...Div as I wanted to be able to call these after grabbing a number value from a button click which would trigger one of these functions changing the cardKind.
+* Ended up creating a new component called CardKindSelector where it updates the state of a variable called cardKind which represents the current kind of card that is meant to be displayed. I then passed this into the displayCard function where it will then get a random card of that cardkind after entering the correct answer. This was made up of radio buttons instead as the other plan of making four buttons and coding them individually was kind of a mess.
 # TODO
 ## Week 1
 * ~~Need to work on my function changeColor on click so that the color of the button will change once clicked.~~
@@ -54,6 +53,5 @@ Watched Dr.Barts video and tried to create my own cardgame [here](https://aerusi
 * Plan on upscaling my calculator from two text box inputs to an actual clickable calculator that can calculate many different numbers. Will also work on making it look like an actual calculator in terms of structure, shape and colors. Really want to also add the ability to click a button and have window open where the calculator will also take in written problems instead of just entered through pushing buttons.
 * Implementing bootstrap into my calculator to help the overall layout making it clean and organized.
 * Potentially try and implement a simple version of black jack.
-* #TODO
+## Week 
 * Find out how to make the math problems look like [this](https://apps.apple.com/us/app/math-drills-math-flash-cards/id1498107670) in terms of layout with one number on top of the symbol which is on top of the last number. Will most likely use [this](https://www.youtube.com/watch?v=F2JCjVSZlG0&t=1999s&ab_channel=freeCodeCamp.org) tutorial and make it into 4 choices as an input comparision is a bit hard at first 
-* 

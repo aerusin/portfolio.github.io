@@ -16,6 +16,9 @@ Made a game of tic-tac-toe from the react tutorial [here](https://reactjs.org/tu
 Watched Dr.Barts video and tried to create my own cardgame [here](https://aerusin.github.io/reactcardgame/) with the source code [here](https://github.com/aerusin/reactcardgame). The idea was that there is a json file full of different math problems with 4 kinds of them being addition, subtraction, multiplication, and division. The idea is for the user to be able to click a button with the icon symbolizing what type of math they want to work on and the website will then show flash cards that will have an answer box. You can only move on if you get the answer right. There is a hint option which will explain the steps of the problem 1 by 1 with a sample problem and when you enter the correct problem, you will go onto the next equation.
 
 
+
+
+
 # Changelog
 ## Week 1
 * Added an image of my cat from my local directory.
@@ -35,8 +38,13 @@ Watched Dr.Barts video and tried to create my own cardgame [here](https://aerusi
 ## Week 3
 * Created a basic outline of a calculator function but ended up deleting it after I had alot of trouble mapping out the inital idea.
 * Created a react app with a flashcard where whenever you click enter, it gives you a random element in the list. This is only temporary to make it work for now until I figure out how to setup the buttons properly so that only problems of a certian type will be given based on user input.
-* Watched Dr.Barts video and spent many many hours creating my own card game but had many issues. A big issue I had was how to extract the data from the input and compare it to the actual answer. I tried everything from input boxes, buttons etc and had a bit of trouble implementing it. I would 
-* I was alos
+* Watched Dr.Barts video and spent many many hours creating my own card game but had many issues. A big issue I had was how to extract the data from the input and compare it to the actual answer. I tried everything from input boxes, buttons etc and had a bit of trouble implementing it.
+## Week 4
+* Added a function called handleKeyPress which would check if the entered value was correct compared to the cards actual value.
+* Updated the function so that it was able to go to the next card after a correct answer was submitted.
+* Updated handleKeyPress by setting the value of the textbox to a state variable called student answer so that whenever you submit an answer, it would clear the textbox for you as the values would never go away causing the answer after the first problem to constantly fail. After many hours of headaches, I figured out that I had to get the value of the keypress as an HTMLInputElement as there were errors with the types.
+* Changed the textarea to a textbox as the textarea was too big.
+* Created a new component called CardKindSelector where it updates the state of a variable called cardKind which represents the current kind of card that is meant to be displayed. I then passed this into the displayCard function where it will then get a random card of that cardkind after entering the correct answer. This was made up of radio buttons instead as the other plan of making four buttons and coding them individually was kind of a mess.
 # TODO
 ## Week 1
 * ~~Need to work on my function changeColor on click so that the color of the button will change once clicked.~~
